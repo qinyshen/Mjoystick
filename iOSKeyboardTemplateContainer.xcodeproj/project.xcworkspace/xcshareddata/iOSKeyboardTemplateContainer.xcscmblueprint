@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "56D43F8D7ADBF1CAB58E40197826D0B77F5F1D69",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F" : 0,
+    "56D43F8D7ADBF1CAB58E40197826D0B77F5F1D69" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4B123E9F-BCEB-4BCC-9732-3780A43EF29F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F" : "iOSKeyboardTemplateContainer",
+    "56D43F8D7ADBF1CAB58E40197826D0B77F5F1D69" : "iOSCustomKeyboard-master\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iOSKeyboardTemplateContainer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOSKeyboardTemplateContainer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:qinyshen\/Mjoystick.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56D43F8D7ADBF1CAB58E40197826D0B77F5F1D69"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bjhstudios\/iOSCustomKeyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FEBA7F4761ED4E804AC78D15BACB31A2F44D5B4F"
+    }
+  ]
+}
